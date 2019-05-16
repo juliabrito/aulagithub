@@ -1,1 +1,4 @@
 lista usuarios 
+git add *
+git commit -n "mensagem"
+git push
